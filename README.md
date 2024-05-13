@@ -1,5 +1,12 @@
-# Ficard
-App credit card
+<h2 align="center">
+    <img height="100" src="https://github.com/raphaelramos/ficard/assets/7671459/005fc469-275f-4c57-82cc-1f78e48975ce" />
+    <br>
+    App credit card
+</h2>
+
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Features
 
@@ -54,11 +61,3 @@ NodeJS, Expo CLI
 - [Submit Store](https://docs.expo.dev/submit/introduction)
 - [Expo](https://docs.expo.dev)
 - [React Native](https://reactnative.dev)
-
-## Tech Stack
-
-<p align="left">
-  <a href="https://expo.dev" target="_blank" rel="noreferrer"> <img src="https://static.expo.dev/static/favicons/favicon-light-48x48.png" alt="expo" title="expo" width="30" height="30"/> </a>
-  <a href="https://reactnative.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" title="React Native" width="30" height="30"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="30" height="30"/> </a>
-</p>
